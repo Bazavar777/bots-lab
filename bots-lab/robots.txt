@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Host: https://bots-lab.ru
+Sitemap: https://bots-lab.ru/sitemap.xml
